@@ -1,0 +1,2 @@
+# ACD_AN_Session_9_Assignment_4
+Create Menu, Menu items &amp; Dialog - Create the Menu item called “ADD” and upon the click event on the menu-item, a pop-up should appear asking for the user to enter the Name, phone number and DOB. The popup must contain a Button to add the values into the ListView and close the pop-up after adding, a Button to add the values into the ListView and clear the placeholder for adding new values, and a Button to close the pop-up.
